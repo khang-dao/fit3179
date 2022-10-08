@@ -591,8 +591,17 @@ video {
   resize: both;
 }
 
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .border {
   border-width: 1px;
+}
+
+.text-green-400 {
+  --tw-text-opacity: 1;
+  color: rgb(74 222 128 / var(--tw-text-opacity));
 }
 
 .underline {
@@ -604,7 +613,17 @@ video {
   outline-style: solid;
 }
 
+.hover\:text-green-100:hover {
+  --tw-text-opacity: 1;
+  color: rgb(220 252 231 / var(--tw-text-opacity));
+}
+
 .hover\:text-green-200:hover {
   --tw-text-opacity: 1;
   color: rgb(187 247 208 / var(--tw-text-opacity));
+}
+
+.hover\:text-green-500:hover {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity));
 }
