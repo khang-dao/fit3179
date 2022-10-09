@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://gist.githubusercontent.com/khang-dao/6de62fe05acaffae40ec138c9bbae6f7/raw/06c60fb3ea1ef680ccfbaebbdfa63a116eff88ac/olympics-1986-2016-cleaned-2.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "aggregate": "count",
+      "title": "Number of Medals"
+    },
+
+    "x": {
+      "field": "Year",
+      "type": "ordinal"
+    },
+
+    "color": {
+      "field": "Medal",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Gold", "Silver", "Bronze"],
+        "range": ["#A7A59C", "#E8C85D", "#DBA584"]
+      },
+      "title": "Australia Olympic Medals Over the Years"
+    }
+  }
+}
