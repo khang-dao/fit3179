@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "https://gist.githubusercontent.com/khang-dao/f29ae5478564a307d9a24787e67701ee/raw/004a399cb8e1e4d697552649461fc6a24824299e/olympics-1986-2016-cleaned-3.csv"},
+  "transform": [
+    {"calculate": "datum.sex == 'M' ? 'Female' : 'Male'", "as": "Sex"}
+  ],
+  "width": 300,
+  "height": 200,
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "Age",
+      "axis": null, "sort": "descending"
+    },
+    "x": {
+      "field": "Age",
+      "title": "Age",
+      "axis": {"format": "s"}
+    },
+    "color": {
+      "field": "gender",
+      "scale": {"range": ["#675193", "#ca8861"]},
+      "legend": {"orient": "top", "title": null}
+    }
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}
