@@ -1,0 +1,12 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 250,
+  "height": 250,
+  "data": {"url": "https://gist.githubusercontent.com/khang-dao/fb9b1496e9456a5a7bf680674ee39b4c/raw/0813ce882839dedb9b76a250dff0cd4aa7238474/olympics-1986-2016-cleaned-4-america.csv"},
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Height", "type": "quantitative", "scale": {"domain": [0, 250]}},
+    "y": {"field": "Weight", "type": "quantitative", "scale": {"domain": [0, 250]}},
+    "color": {"value": "#E7314C"}
+  }
+}
