@@ -49,7 +49,7 @@
       "transform": [{"filter": {"field": "Sex", "equal": "F"}}],
       "title": {"text": "Female", "dy": 200},
       "width": 950,
-      "mark": "bar",
+      "mark": {"type": "bar", "width": {"band": 0.7}},
       "encoding": {
         "x": {"field": "Sport", "axis": null, "sort": "ascending"},
         "y": {

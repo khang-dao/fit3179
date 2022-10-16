@@ -1114,6 +1114,21 @@ video {
   color: rgb(148 163 184 / var(--tw-text-opacity));
 }
 
+.text-\[\#50d71e\] {
+  --tw-text-opacity: 1;
+  color: rgb(80 215 30 / var(--tw-text-opacity));
+}
+
+.text-\[rgb\(232\2c 200\2c 93\)\] {
+  --tw-text-opacity: 1;
+  color: rgb(232 200 93 / var(--tw-text-opacity));
+}
+
+.text-\[\#e8c85d\] {
+  --tw-text-opacity: 1;
+  color: rgb(232 200 93 / var(--tw-text-opacity));
+}
+
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
