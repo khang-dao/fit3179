@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": ["Australian Olympic Medals", "Bronze / Silver / Gold"], "fontSize":25, "font":"Verdana"},
+  "title": {"text": ["Australian Olympic Medals", "Bronze / Silver / Gold"], "fontSize":25},
   "config": {"view": {"stroke": ""}},
   "width": 400,
   "height": 400,

@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": "Australia Olympic Medals Over the Years", "fontSize":25},
   "data": {"url": "https://gist.githubusercontent.com/khang-dao/6de62fe05acaffae40ec138c9bbae6f7/raw/06c60fb3ea1ef680ccfbaebbdfa63a116eff88ac/olympics-1986-2016-cleaned-2.csv"},
   "background": "rgba(255, 255, 255, 0)",
   "width": 1050,

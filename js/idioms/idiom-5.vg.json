@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": ["Total Number of Olympic Medals by Country"], "fontSize":25, "font":"Verdana"},
+  "title": {"text": ["Total Number of Olympic Medals by Country"], "fontSize":25},
   "width": 800,
   "height": 400,
   "background": "rgba(255, 255, 255, 0)",

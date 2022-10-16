@@ -3,7 +3,6 @@
   "data": {
     "url": "https://gist.githubusercontent.com/khang-dao/f29ae5478564a307d9a24787e67701ee/raw/5e73dd387a9ebc89d049f58b0d652729df1f9a90/olympics-1986-2016-cleaned-3.csv"
   },
-  "title": {"text": ["Average Age of Olympians Across Different Sports"], "fontSize":24, "dx":280},
   "background": "rgba(255, 255, 255, 0)",
   "spacing": 0,
   "vconcat": [    {
@@ -23,7 +22,7 @@
           "field": "Age",
           "title": "Age",
           "axis": {"format": "s"},
-          "scale": {"domain": [0, 80]}
+          "scale": {"domain": [0, 60]}
         },
         "color": {"field": "Sex", "legend": null},
         "tooltip": [
@@ -58,7 +57,7 @@
           "field": "Age",
           "title": "Age",
           "axis": {"format": "s"},
-          "scale": {"domain": [0, 80]},
+          "scale": {"domain": [0, 60]},
           "sort": "descending"
         },
         "color": {

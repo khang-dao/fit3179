@@ -9,7 +9,11 @@
   "encoding": {
     "x": {"field": "Height", "type": "quantitative", "scale": {"domain": [0, 250]}},
     "y": {"field": "Weight", "type": "quantitative", "scale": {"domain": [0, 250]}},
-    "color": {"value": "#00A14E"}
+    "color": {"value": "#00A14E"},
+    "tooltip": [
+      {"field": "Height", "type": "quantitative"},
+      {"field": "Weight", "type": "quantitative"}
+      ]
   },
   "config": {
     "axis": {

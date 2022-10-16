@@ -603,6 +603,14 @@ video {
   margin-right: 2.5rem;
 }
 
+.mr-5 {
+  margin-right: 1.25rem;
+}
+
+.mr-7 {
+  margin-right: 1.75rem;
+}
+
 .block {
   display: block;
 }
@@ -625,6 +633,16 @@ video {
 
 .min-h-screen {
   min-height: 100vh;
+}
+
+.w-max {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .border-collapse {
@@ -691,12 +709,20 @@ video {
   flex-direction: row-reverse;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .place-items-center {
   place-items: center;
 }
 
 .items-center {
   align-items: center;
+}
+
+.items-stretch {
+  align-items: stretch;
 }
 
 .justify-end {
@@ -717,6 +743,19 @@ video {
 
 .gap-10 {
   gap: 2.5rem;
+}
+
+.break-normal {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.break-words {
+  overflow-wrap: break-word;
+}
+
+.break-all {
+  word-break: break-all;
 }
 
 .rounded-sm {
@@ -985,6 +1024,18 @@ video {
 
 .font-\[\'Arial\'\] {
   font-family: 'Arial';
+}
+
+.font-\[\'Calibri\'\] {
+  font-family: 'Calibri';
+}
+
+.font-\[\'Calibri\'Light\] {
+  font-family: 'Calibri'Light;
+}
+
+.font-\[\'Kalinga\'\] {
+  font-family: 'Kalinga';
 }
 
 .text-8xl {
