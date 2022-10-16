@@ -122,9 +122,9 @@
     },
     "color": {
       "condition": [
-        { "test": "datum['id'] <= 97", "value": "rgb(232,210,138)" }
+        { "test": "datum['id'] <= 97", "value": "rgb(255,190,88)" }
       ],
-      "value": "rgb(148, 216, 255)"
+      "value": "rgb(119 , 200, 240)"
     },
     "size": { "value": 0.008}
   }

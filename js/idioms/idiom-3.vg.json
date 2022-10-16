@@ -8,8 +8,8 @@
   "vconcat": [    {
       "transform": [{"filter": {"field": "Sex", "equal": "M"}}],
       "title": "Male",
-      "width": 1000,
-      "mark": "bar",
+      "width": 950,
+      "mark": {"type": "bar", "width": {"band": 0.7}},
       "encoding": {
         "x": {
           "field": "Sport",
@@ -34,7 +34,7 @@
 ,
     {
       "view": {"stroke": null},
-      "width": 1000,
+      "width": 950,
     "mark": {
       "type": "text",
       "angle": 270
@@ -48,7 +48,7 @@
     {
       "transform": [{"filter": {"field": "Sex", "equal": "F"}}],
       "title": {"text": "Female", "dy": 200},
-      "width": 1100,
+      "width": 950,
       "mark": "bar",
       "encoding": {
         "x": {"field": "Sport", "axis": null, "sort": "ascending"},
