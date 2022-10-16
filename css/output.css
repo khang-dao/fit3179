@@ -851,6 +851,10 @@ video {
   background-image: url('./docs/assets/olympic_rings.png');
 }
 
+.bg-\[url\(\'\.\.\/docs\/assets\/olympic_rings\.png\'\)\] {
+  background-image: url('../docs/assets/olympic_rings.png');
+}
+
 .bg-auto {
   background-size: auto;
 }
