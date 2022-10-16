@@ -126,9 +126,9 @@
           "test": "datum['id'] <= 62 && datum['id'] > 30",
           "value": "rgb(167,165,156)"
         },
-        {"test": "datum['id'] <= 30", "value": "rgb(232,210,138)"}
+        {"test": "datum['id'] <= 30", "value": "rgb(232,200,93)"}
       ],
-      "value": "rgb(219,184,162)"
+      "value": "rgb(219,165,132)"
     },
     "size": {"value": 0.008}
   }
