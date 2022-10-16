@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": ["Australian Olympic Medals", "Summer / Winter"],
+  "title": {"text": ["Australian Olympic Medals", "Summer / Winter"], "fontSize":25},
   "config": { "view": { "stroke": "" } },
   "width": 400,
   "height": 400,
