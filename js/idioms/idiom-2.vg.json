@@ -3,6 +3,7 @@
   "data": {
     "url": "https://gist.githubusercontent.com/khang-dao/6de62fe05acaffae40ec138c9bbae6f7/raw/06c60fb3ea1ef680ccfbaebbdfa63a116eff88ac/olympics-1986-2016-cleaned-2.csv"
   },
+  "background": "rgba(255, 255, 255, 0)",
   "mark": "bar",
   "encoding": {
     "y": {

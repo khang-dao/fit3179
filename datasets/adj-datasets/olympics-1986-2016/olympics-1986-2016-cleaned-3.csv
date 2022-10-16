@@ -1,117 +1,133 @@
 Sport,Sex,Age
 Aeronautics,M,26.0
-Alpine Skiing,F,22.0
-Alpine Skiing,M,24.0
+Alpine Skiing,F,21.0
+Alpine Skiing,M,22.0
 Alpinism,F,43.0
 Alpinism,M,39.0
 Archery,F,26.0
-Archery,M,29.0
-Art Competitions,F,45.0
-Art Competitions,M,46.0
-Athletics,F,25.0
-Athletics,M,25.0
-Badminton,F,25.0
-Badminton,M,26.0
+Archery,M,28.0
+Art Competitions,F,43.0
+Art Competitions,M,44.0
+Athletics,F,24.0
+Athletics,M,24.0
+Badminton,F,24.0
+Badminton,M,25.0
 Baseball,M,26.0
-Basketball,F,26.0
-Basketball,M,25.0
+Basketball,F,25.0
+Basketball,M,24.0
 Basque Pelota,M,26.0
-Beach Volleyball,F,28.0
-Beach Volleyball,M,30.0
-Biathlon,F,26.0
-Biathlon,M,27.0
-Bobsleigh,F,28.0
-Bobsleigh,M,29.0
-Boxing,F,27.0
-Boxing,M,23.0
-Canoeing,F,25.0
-Canoeing,M,26.0
+Beach Volleyball,F,27.0
+Beach Volleyball,M,29.0
+Biathlon,F,23.0
+Biathlon,M,25.0
+Bobsleigh,F,27.0
+Bobsleigh,M,28.0
+Boxing,F,26.0
+Boxing,M,22.0
+Canoeing,F,23.0
+Canoeing,M,24.0
 Cricket,M,29.0
 Croquet,F,40.0
-Croquet,M,32.0
-Cross Country Skiing,F,26.0
-Cross Country Skiing,M,26.0
-Curling,F,30.0
-Curling,M,33.0
-Cycling,F,27.0
-Cycling,M,24.0
-Diving,F,22.0
-Diving,M,23.0
-Equestrianism,F,34.0
-Equestrianism,M,35.0
-Fencing,F,26.0
-Fencing,M,29.0
-Figure Skating,F,21.0
-Figure Skating,M,24.0
-Football,F,25.0
+Croquet,M,31.0
+Cross Country Skiing,F,23.0
+Cross Country Skiing,M,25.0
+Curling,F,29.0
+Curling,M,32.0
+Cycling,F,25.0
+Cycling,M,23.0
+Diving,F,20.0
+Diving,M,22.0
+Equestrianism,F,32.0
+Equestrianism,M,32.0
+Fencing,F,25.0
+Fencing,M,27.0
+Figure Skating,F,20.0
+Figure Skating,M,23.0
+Football,F,24.0
 Football,M,23.0
-Freestyle Skiing,F,24.0
-Freestyle Skiing,M,25.0
+Freestyle Skiing,F,23.0
+Freestyle Skiing,M,24.0
 Golf,F,27.0
-Golf,M,30.0
-Gymnastics,F,19.0
-Gymnastics,M,25.0
-Handball,F,26.0
-Handball,M,27.0
-Hockey,F,25.0
-Hockey,M,26.0
-Ice Hockey,F,24.0
-Ice Hockey,M,26.0
+Golf,M,31.0
+Gymnastics,F,18.0
+Gymnastics,M,24.0
+Handball,F,25.0
+Handball,M,25.0
+Hockey,F,24.0
+Hockey,M,25.0
+Ice Hockey,F,23.0
+Ice Hockey,M,25.0
 Jeu De Paume,M,32.0
-Judo,F,25.0
-Judo,M,25.0
+Judo,F,24.0
+Judo,M,24.0
 Lacrosse,M,27.0
-Luge,F,24.0
-Luge,M,25.0
+Luge,F,22.0
+Luge,M,23.0
 Military Ski Patrol,M,24.0
-Modern Pentathlon,F,26.0
+Modern Pentathlon,F,24.0
 Modern Pentathlon,M,26.0
 Motorboating,F,26.0
-Motorboating,M,34.0
-Nordic Combined,M,24.0
+Motorboating,M,36.0
+Nordic Combined,M,23.0
 Polo,M,35.0
-Racquets,M,29.0
-Rhythmic Gymnastics,F,19.0
+Racquets,M,27.0
+Rhythmic Gymnastics,F,18.0
 Roque,M,53.0
-Rowing,F,26.0
-Rowing,M,25.0
+Rowing,F,24.0
+Rowing,M,24.0
 Rugby,M,24.0
 Rugby Sevens,F,26.0
 Rugby Sevens,M,26.0
-Sailing,F,27.0
-Sailing,M,31.0
-Shooting,F,29.0
-Shooting,M,34.0
-Short Track Speed Skating,F,22.0
-Short Track Speed Skating,M,23.0
-Skeleton,F,28.0
-Skeleton,M,31.0
+Sailing,F,25.0
+Sailing,M,29.0
+Shooting,F,27.0
+Shooting,M,33.0
+Short Track Speed Skating,F,21.0
+Short Track Speed Skating,M,22.0
+Skeleton,F,26.0
+Skeleton,M,30.0
 Ski Jumping,F,21.0
-Ski Jumping,M,23.0
-Snowboarding,F,25.0
-Snowboarding,M,25.0
+Ski Jumping,M,22.0
+Snowboarding,F,23.0
+Snowboarding,M,23.0
 Softball,F,26.0
-Speed Skating,F,24.0
-Speed Skating,M,25.0
-Swimming,F,20.0
-Swimming,M,21.0
-Synchronized Swimming,F,22.0
-Table Tennis,F,26.0
-Table Tennis,M,27.0
+Speed Skating,F,22.0
+Speed Skating,M,23.0
+Swimming,F,18.0
+Swimming,M,20.0
+Synchronized Swimming,F,21.0
+Table Tennis,F,24.0
+Table Tennis,M,25.0
 Taekwondo,F,23.0
-Taekwondo,M,25.0
-Tennis,F,25.0
-Tennis,M,27.0
-Trampolining,F,26.0
-Trampolining,M,25.0
-Triathlon,F,28.0
-Triathlon,M,28.0
+Taekwondo,M,24.0
+Tennis,F,23.0
+Tennis,M,25.0
+Trampolining,F,24.0
+Trampolining,M,23.0
+Triathlon,F,27.0
+Triathlon,M,27.0
 Tug-Of-War,M,29.0
-Volleyball,F,25.0
-Volleyball,M,26.0
-Water Polo,F,25.0
-Water Polo,M,26.0
-Weightlifting,F,24.0
-Weightlifting,M,26.0
-Wrestling,F,25.0
-Wrestling,M,26.0
+Volleyball,F,23.0
+Volleyball,M,25.0
+Water Polo,F,24.0
+Water Polo,M,24.0
+Weightlifting,F,23.0
+Weightlifting,M,25.0
+Wrestling,F,24.0
+Wrestling,M,25.0
+Rhythmic Gymnastics,M,0.0
+Softball,M,0.0
+Synchronized Swimming,M,0.0
+Aeronautics,F,0.0
+Baseball,F,0.0
+Basque Pelota,F,0.0
+Cricket,F,0.0
+Jeu De Paume,F,0.0
+Lacrosse,F,0.0
+Military Ski Patrol,F,0.0
+Nordic Combined,F,0.0
+Polo,F,0.0
+Racquets,F,0.0
+Roque,F,0.0
+Rugby,F,0.0
+Tug-Of-War,F,0.0

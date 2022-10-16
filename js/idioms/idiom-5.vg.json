@@ -3,6 +3,7 @@
     "title": "Total Number of Olympic Medals by Country",
     "width": 800,
     "height": 400,
+    "background": "rgba(255, 255, 255, 0)",
     "projection": {"type": "equalEarth"},
     "data": {
       "url": "https://raw.githubusercontent.com/khang-dao/FIT3179-W9-HW/master/js/ne_110m.json",

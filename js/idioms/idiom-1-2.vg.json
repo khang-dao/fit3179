@@ -3,6 +3,7 @@
   "config": { "view": { "stroke": "" } },
   "width": 500,
   "height": 500,
+  "background": "rgba(255, 255, 255, 0)",
   "data": {
     "values": [
       { "id": 1 },
