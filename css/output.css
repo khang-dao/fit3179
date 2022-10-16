@@ -819,6 +819,18 @@ video {
   background-image: url('/images/olympic_rings.png');
 }
 
+.bg-\[url\(\'\/docs\/olympic_rings\.png\'\)\] {
+  background-image: url('/docs/olympic_rings.png');
+}
+
+.bg-\[url\(\'\/docs\/assets\/olympic_rings\.png\'\)\] {
+  background-image: url('/docs/assets/olympic_rings.png');
+}
+
+.bg-\[url\(\'\/docs\/assets\/images\/olympic_rings\.png\'\)\] {
+  background-image: url('/docs/assets/images/olympic_rings.png');
+}
+
 .bg-auto {
   background-size: auto;
 }
