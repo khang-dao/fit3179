@@ -8,7 +8,7 @@
   "vconcat": [    {
       "transform": [{"filter": {"field": "Sex", "equal": "M"}}],
       "title": "Male",
-      "width": 1100,
+      "width": 950,
       "mark": "bar",
       "encoding": {
         "x": {
@@ -34,7 +34,7 @@
 ,
     {
       "view": {"stroke": null},
-      "width": 1100,
+      "width": 950,
     "mark": {
       "type": "text",
       "angle": 270
